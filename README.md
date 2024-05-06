@@ -2,10 +2,10 @@
 ## Descrição do Hardware e Software Utilizados: Detalhes sobre o ambiente de
 desenvolvimento e execução.
 
-##Instâncias Utilizadas: Conjunto de instâncias do problema empregadas nos
+## Instâncias Utilizadas: Conjunto de instâncias do problema empregadas nos
 experimentos, fornecidas pela comissão organizadora.
 
-##Descrição Detalhada da Metaheurística e Variações: Os participantes devem
+## Descrição Detalhada da Metaheurística e Variações: Os participantes devem
 fornecer uma descrição detalhada da metaheurística escolhida e das variações
 implementadas, com base no artigo fornecido sobre Algoritmos Genéticos,
 incluindo:
