@@ -4,12 +4,11 @@
 + **Placa de Vídeo:** NVIDIA GeForce GTX 1060 6gb
 + **Memoria RAM:** Kingston 12gb(4gb+8gb) DDR3
 + **Sistema Operacioal:** Windows 10 Pro versão 22H2
-+ **Linguagem:** Python 3.10.12
-+ **Editor de Código:** Visual Studio Code versão 1.89.0
++ **Linguagem:** Python 3.12.1
++ **Editor de Código:** Visual Studio Code versão 1.85.1
 
 ## Instâncias Utilizadas: 
-As instâncias utilizadas estão nos arquivos, nomeado como **"entrada.txt"**
-
+As instâncias utilizadas estão disponíveis na seguinte URL: https://www.math.uwaterloo.ca/tsp/world/countries.html#WI
 
 ## Descrição Detalhada da Metaheurística e Variações: 
 Os participantes devem fornecer uma descrição detalhada da metaheurística escolhida e das variações implementadas, com base no artigo fornecido sobre Algoritmos Genéticos, incluindo:
